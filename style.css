@@ -1,0 +1,75 @@
+body{
+    background-color:aquamarine ;
+    
+
+
+
+.header{
+    
+   position: static;
+   border: solid red 5px;
+   width: auto;
+   height:50px ;
+
+
+}
+.nav{
+        padding: 5px;
+        margin: 5px;
+        color: brown;
+        font-size: larger;
+
+
+        .homepage {
+            border: solid black 2px;
+            padding: 5px;
+        }
+    
+        .profile {
+            border: solid black 2px;
+            padding: 5px;
+        }
+    
+        .articel {
+            border: solid black 2px;
+            padding: 5px;
+        }
+    
+        .book {
+            border: solid black 2px;
+            padding: 5px;
+        }
+    
+        .about {
+            border: solid black 2px;
+            padding: 5px;
+        }
+      
+}
+
+
+.article{
+    border: solid black 2px ;
+   width: 600px;
+    height: 300px;
+   float: right;
+}
+
+.aside{
+    border: solid black 2px ;
+     width: 150px ;
+     height: 300px;
+     float: left;
+
+    }
+
+
+.footer{
+   border: solid black 2px;
+   float:inline-end ;
+   margin: 5px;
+   width: 700px;
+   
+}
+
+}
